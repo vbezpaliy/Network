@@ -1,0 +1,5 @@
+Netdiscover
+
+This tool is used to scan a network for live machines.
+
+netdiscover -r 192.168.1.1/24
